@@ -6,10 +6,10 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "StereoMod",
-	"name": "Sepa",
+	"id": "stereomod",
+	"name": "sepa",
 	"version": "5.4.1",
-	"developer": "Lennyx129",
+	"developer": "lennyx",
 	"description": "Xd",
 	"early-load":true,
 	"dependencies": {
