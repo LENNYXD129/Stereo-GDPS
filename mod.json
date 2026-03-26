@@ -6,9 +6,9 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "lenny.stereomod",
+	"id": "lennyx.stereomod",
 	"name": "sepa",
-	"version": "5.4.1",
+	"version": "v1.0.0",
 	"developer": "lennyx",
 	"description": "xd",
 	"early-load":true,
