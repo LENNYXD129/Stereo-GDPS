@@ -10,7 +10,7 @@
 	"name": "sepa",
 	"version": "5.4.1",
 	"developer": "lennyx",
-	"description": "Xd",
+	"description": "xd",
 	"early-load":true,
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
